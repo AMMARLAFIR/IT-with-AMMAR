@@ -1,6 +1,8 @@
 # IT-with-AMMAR
 learning platform (App) for O/L ICT 
 
+![logo](icon.png)
+
 ## 🚀 Features
 * just all features an O/L ICT student needs 
 * unit wise ext book and other resources
