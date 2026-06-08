@@ -13,13 +13,21 @@ learning platform (App) for O/L ICT
 * Storage converter
 * and more....
 
-##just install and try it.
+## just install and try it.
 
-##📩Download links
+## 📩Download links
+* **[IT with AMMAR.EXE]([https://github.com/kangax/html-minifier](https://github.com/AMMARLAFIR/IT-with-AMMAR/blob/main/it-with-ammar_0.1.0_x64-setup.exe))**
 
-## screenshots 
+## screenshots
 
+![screenshot](screenshots/)
+![screenshot](screenshots/)
+![screenshot](screenshots/)
+![screenshot](screenshots/)
 Android version in development 
+![screenshot](screenshots/)
+![screenshot](screenshots/)
+![screenshot](screenshots/)
 
-#📜 License
+# 📜 License
 this project is free for personal use. using the code or selling or any other uses need a proper written permission. otherwise considered as an intellectual property theft.
