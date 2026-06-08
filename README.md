@@ -1,7 +1,10 @@
-# IT-with-AMMAR
-learning platform (App) for O/L ICT 
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="App Logo">
+</p>
 
-![logo](icon.png)
+<h1 align="center">IT-with-AMMAR</h1>
+
+learning platform (App) for O/L ICT 
 
 ## 🚀 Features
 * just all features an O/L ICT student needs 
@@ -16,7 +19,7 @@ learning platform (App) for O/L ICT
 * and more....
 
 ## just install and try it.
-
+* some times windows try to block the installation because the app is not authorized. install anyway.
 ## 📩Download links
 * **[IT with AMMAR.EXE]([https://github.com/kangax/html-minifier](https://github.com/AMMARLAFIR/IT-with-AMMAR/blob/main/it-with-ammar_0.1.0_x64-setup.exe))**
 
