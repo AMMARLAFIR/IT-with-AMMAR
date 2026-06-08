@@ -20,14 +20,14 @@ learning platform (App) for O/L ICT
 
 ## screenshots
 
-![screenshot](screenshots/)
-![screenshot](screenshots/)
-![screenshot](screenshots/)
-![screenshot](screenshots/)
+![screenshot](screenshots/d1)
+![screenshot](screenshots/d2)
+![screenshot](screenshots/d3)
+
 Android version in development 
-![screenshot](screenshots/)
-![screenshot](screenshots/)
-![screenshot](screenshots/)
+![screenshot](screenshots/m1)
+![screenshot](screenshots/m2)
+![screenshot](screenshots/m3)
 
 # 📜 License
 this project is free for personal use. using the code or selling or any other uses need a proper written permission. otherwise considered as an intellectual property theft.
