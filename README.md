@@ -8,10 +8,13 @@ An all-in-one interactive platform tailored for Grade 10 & Grade 11 students pre
 
 IT with AMMAR simplifies complex IT concepts into engaging, interactive, and easily digestible learning materials. Guided by experienced educator and IT administrator AMMAR LAFIR, this platform bridges the gap between theoretical syllabus topics and practical technology skills.
 # Key Features & Capabilities
+
 ## ​🧠 1. Unit-Based Learning & Interactive Mind Maps
 ​Grade 10 & Grade 11 Coverage: Complete chapter-by-chapter breakdowns for the entire syllabus.
 ​Visual Mind Maps: Connect key concepts, understand structural flows, and perform quick revisions at a glance before exams.
-​## 🛠️ 2. Interactive Learning Tools & Simulators
+
+## 🛠️ 2. Interactive Learning Tools & Simulators
+
 ​Master practical concepts without installing heavy desktop software directly from your browser:
 ​Word Simulator: Practice document formatting, styling, and text processing.
 ​Excel Simulator: Master formulas, data analysis, spreadsheets, and charts interactively.
@@ -19,9 +22,12 @@ IT with AMMAR simplifies complex IT concepts into engaging, interactive, and eas
 ​Storage Converter: Easily convert data units across Bytes, KB, MB, GB, and TB for capacity calculations.
 ​Logic Gate Simulator: Visualize and test digital logic circuits (AND, OR, NOT, XOR gates).
 ​Live HTML Editor: Write and test front-end code with live, instant side-by-side previews.
-​## 📚 3. Dual-Language Study Reference Guides
+​
+## 📚 3. Dual-Language Study Reference Guides
+
 ​Bilingual Support: Access study guides in both English and Tamil (தமிழ்).
 ​PDF Reference Viewer: Built-in fast document viewer for textbooks, exercises, past papers, and term-test resource materials.
+
 ## 🚀 other Features
 * just all features an O/L ICT student needs 
 * unit wise ext book and other resources
@@ -35,6 +41,7 @@ IT with AMMAR simplifies complex IT concepts into engaging, interactive, and eas
 * and more....
 
 ## just install and try it.
+
 * some times windows try to block the installation because the app is not authorized. install anyway.
 ## 📩Download links
 **[IT with AMMAR.EXE]([https://github.com/kangax/html-minifier](https://github.com/AMMARLAFIR/IT-with-AMMAR/blob/main/it-with-ammar_0.1.0_x64-setup.exe))**
