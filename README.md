@@ -44,7 +44,8 @@ IT with AMMAR simplifies complex IT concepts into engaging, interactive, and eas
 
 * some times windows try to block the installation because the app is not authorized. install anyway.
 ## 📩Download links
-**[IT with AMMAR.EXE]([https://github.com/kangax/html-minifier](https://github.com/AMMARLAFIR/IT-with-AMMAR/blob/main/it-with-ammar_0.1.0_x64-setup.exe))**
+**[IT with AMMAR.EXE](https://github.com/AMMARLAFIR/IT-with-AMMAR/raw/main/it-with-ammar_0.1.0_x64-setup.exe)**
+
 
 ## screenshots
 
