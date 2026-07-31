@@ -44,7 +44,11 @@ IT with AMMAR simplifies complex IT concepts into engaging, interactive, and eas
 
 * some times windows try to block the installation because the app is not authorized. install anyway.
 ## 📩Download links
-**[IT with AMMAR.EXE](https://github.com/AMMARLAFIR/IT-with-AMMAR/raw/main/it-with-ammar_0.1.0_x64-setup.exe)**
+
+**[IT with AMMAR.exe](https://github.com/AMMARLAFIR/IT-with-AMMAR/raw/main/it-with-ammar_0.1.0_x64-setup.exe)**
+
+
+**[IT with AMMAR.apk](https://drive.google.com/file/d/1vaw7eszkF_JpAp8pKnKKlyETPc8woofJ/view?usp=drivesdk)**
 
 
 ## screenshots
@@ -53,7 +57,7 @@ IT with AMMAR simplifies complex IT concepts into engaging, interactive, and eas
 ![screenshot](screenshots/d2)
 ![screenshot](screenshots/d3)
 
-## Android version in development 
+## Android version
 
 | screenshot 1 | screenshot 2 |
 |---|---|
