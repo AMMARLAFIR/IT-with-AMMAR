@@ -48,7 +48,7 @@ IT with AMMAR simplifies complex IT concepts into engaging, interactive, and eas
 **[IT with AMMAR.exe](https://github.com/AMMARLAFIR/IT-with-AMMAR/raw/main/it-with-ammar_0.1.0_x64-setup.exe)**
 
 
-**[IT with AMMAR.apk](https://drive.google.com/file/d/1vaw7eszkF_JpAp8pKnKKlyETPc8woofJ/view?usp=drivesdk)**
+**[IT with AMMAR.apk](https://drive.google.com/uc?id=1vaw7eszKzF_JpAp8pKnKKlyETPc8woofJ&export=download)**
 
 
 ## screenshots
